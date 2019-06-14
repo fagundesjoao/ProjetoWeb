@@ -1,0 +1,181 @@
+header{
+	width:100%;
+	background-color:black;
+	height:90px;
+	margin-top:-20px;
+	
+}
+
+#conteudo{
+	width:60%;
+	background-color:white;
+	margin: 0 auto;
+	margin-top: 30px;
+	
+}
+/*Menu*/
+nav{
+	width:100%;
+	background-color:#005000;
+	height:40px;
+	display:flex;
+	
+	
+}
+
+a{
+	text-decoration:none;
+	font-family: 'Stylish', sans-serif;
+	text-transform:uppercase;
+	color:white;
+	margin-right:10px;
+}
+
+a:hover{
+	background-color:white;
+	color:black;
+	padding:12px;
+}
+
+nav ul{
+    padding:0;
+    margin-left:5px;
+    background-color:#005000;
+    list-style:none;
+	margin-top:10px;
+	
+}
+
+nav ul li{
+	display:inline;
+	
+}
+
+
+
+section#netbeans{
+	width:50%;
+	background-color:white;
+	float:right;
+		
+}
+
+section#capitalnatural{
+	width:50%;
+	background-color:white;
+	float:right;
+	
+}
+
+section#recnaturais{
+	width:50%;
+	float:right;
+}
+
+
+
+img#netbeans{
+	width:50%;
+	
+}
+
+img#capitalnatural{
+	width:50%;
+	
+}
+
+img#criadores{
+	width:50%;
+}
+
+img#recursos_naturais{
+	width:50%;
+}
+
+img#economia{
+	width:50%;
+}
+
+img#agua{
+	width:50%;
+}
+
+img#solo{
+	width:50%;
+	float:right;
+}
+
+img#minerais{
+	width:50%;
+}
+
+img#plantas{
+	width:50%;
+	float:right;
+}
+
+
+.cabecalho{
+	width:100%;
+	background-color:#005000;
+	color:white;
+	font-family: 'Stylish', sans-serif;
+}
+
+
+img#imagem_voluntarios{
+	width:50%;
+		
+}
+
+img#html5{
+	
+	
+	
+}
+
+img#css3{
+	
+}
+
+img#javascript{
+	width:50%;
+	
+}
+
+footer{
+	width:100%;
+	background-color:#005000;
+	height:100px;
+	text-align:center;
+	position:relative;
+	color:white;
+	
+}
+
+h1#cabecalho{
+	color:white;
+	font-family: 'Stylish', sans-serif;
+	font-size:30px;
+	
+}
+
+html, body{
+
+height: 100%;
+}
+
+
+
+body{
+	background-color:white;
+}
+
+
+img:hover{
+	filter:brightness(150%);
+	
+}
+
+
+
